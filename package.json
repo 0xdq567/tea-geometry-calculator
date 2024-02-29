@@ -1,0 +1,16 @@
+{
+  "name": "tea-geometry-calculator",
+  "version": "1.0.1",
+  "description": "A simple npm package for calculating geometry-related values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xdq567/tea-geometry-calculator.git"
+  },
+  "keywords": ["geometry", "math"],
+  "author": "0xdq567",
+  "license": "MIT"
+}
